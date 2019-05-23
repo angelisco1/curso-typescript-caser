@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "*": ["node_modules/sweetalert2/*"] },
     "target": "es6"
   }
 }
